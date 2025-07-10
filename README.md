@@ -19,7 +19,10 @@ pacman -S python-pyqt6
 # Pip
 pip install PyQt6
 ```
-
+Download Weii-gui
+```bash
+git clone https://github.com/Goldstriker208/weii-gui/
+```
 
 
 Usage
